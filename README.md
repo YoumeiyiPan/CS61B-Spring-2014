@@ -7,4 +7,5 @@ Instructor: Prof. Jonathan Shewchuk
 
 UPDATE：
 1. 05/11/2017 CS61Blab01 
-2. 05/17/2017 CS61Blab01 & CS61BHW1
+2. 05/17/2017 CS61Blab02 & CS61BHW1
+3. 05/18/2017 CS61Blab03
